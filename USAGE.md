@@ -41,3 +41,4 @@ There are many arguments in terraform, but this case we just wanna run applicati
      Against of command above, this remove everything created.
 
 **It's important to know, but not explained deeply in this tutorial that terraform maintains a state from your infrastructure.**
+**Thank you for chosing Etech Consulting Devops for your Devops career.**
