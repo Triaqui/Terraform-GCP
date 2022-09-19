@@ -3,7 +3,7 @@
 ## Installation
 1. Clone project locally
 ```bash
-$ git clone https://github.com/thiagofernandocosta/gcp_vm-in-few-steps && cd gcp_vm-in-few-steps
+$ git clone git@github.com:etechDevops/etech-gcp-terraform.git && cd etech-gcp-terraform
 ```
 
 2. Install **Terraform**
