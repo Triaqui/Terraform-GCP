@@ -4,6 +4,7 @@ Etech Consulting Devops Master Class Terraform on Google cloud Platform
 Deploy Virtual machine on Google Cloud Plataform (GCP) and set up initial content with nginx via terraform.
 
 This project requires:
+- [Gcloud install](https://cloud.google.com/sdk/docs/install#deb)
 - [Terraform](https://www.terraform.io/ "Terraform")
 - [Google Account](https://cloud.google.com/ "Google Account")
 
